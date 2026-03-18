@@ -1,0 +1,5 @@
+flask==2.3.0
+python-docx==0.8.11
+reportlab==4.0.0
+pillow==9.5.0
+striprtf==0.0.26
